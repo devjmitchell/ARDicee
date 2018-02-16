@@ -160,9 +160,3 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     }
 
 }
-
-
-
-
-
-
